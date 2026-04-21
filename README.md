@@ -1,16 +1,32 @@
-# React + Vite
+# 🍽️ UMAMI HOUSE – Restaurant Website (Frontend)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+UMAMI HOUSE is a modern restaurant website built with React and Tailwind CSS.  
+This project showcases a responsive user interface with a dynamic menu, category filtering, and an online reservation form.
 
-Currently, two official plugins are available:
+It was developed as a frontend project to demonstrate my skills in building reusable components, managing state with React hooks, and creating responsive layouts.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Responsive restaurant website design
+- Dynamic menu with category filtering
+- Online reservation form
+- Reusable React components
+- Modern UI built with Tailwind CSS
+- Context API for state management
+- Clean component-based architecture
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+
+- React.js
+- JavaScript (ES6+)
+- Tailwind CSS
+- HTML5
+- CSS3
+- React Context API
+- React Icons
+- Vite
+
