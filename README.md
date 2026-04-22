@@ -1,5 +1,6 @@
 # 🍽️ UMAMI HOUSE – Restaurant Website (Frontend)
 
+![image_alt](https://github.com/Yelle-stack/-UMAMI-HOUSE-Frontend/blob/f7480a63b5bc446933c61a225c774ba65e09b8eb/umamiHouse.png)
 UMAMI HOUSE is a modern restaurant website built with React and Tailwind CSS.  
 This project showcases a responsive user interface with a dynamic menu, category filtering, and an online reservation form.
 
