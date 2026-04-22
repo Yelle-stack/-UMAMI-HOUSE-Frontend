@@ -3,7 +3,7 @@ import { FaFacebook, FaInstagram, FaReddit, FaTwitter, FaYoutube } from "react-i
 
 const ReservationForm = () => {
 
-  const [formData, satFormData] = useState({
+  const [formData, setFormData] = useState({
     name: "",
     email: "",
     phone: "",
